@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2311989139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 464a3bb8c745c91cda98c2f57abdb129
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4669138edeaeca13f3b164779db2767
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResModel/Charater/role.prefab
+Dependencies: []

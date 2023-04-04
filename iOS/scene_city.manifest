@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2875460532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ccd8d739c7517a4c227e5201fde4acb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37cd4b21304055fec56cd0db9b7e2201
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ResScene/Scenes/city.unity
+Dependencies:
+- /Users/xiaomo/work/project/XGameSolutions/XUnity/UnityForCoder/ResAB/iOS/iOS/scene_dep_prefab_cube

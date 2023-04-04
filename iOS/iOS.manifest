@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 765651173
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene_city
+      Dependencies:
+        Dependency_0: scene_dep_prefab_cube
+    Info_1:
+      Name: model_role
+      Dependencies: {}
+    Info_2:
+      Name: scene_battle
+      Dependencies:
+        Dependency_0: scene_dep_prefab_cube
+    Info_3:
+      Name: ui_loading
+      Dependencies: {}
+    Info_4:
+      Name: ui_login
+      Dependencies: {}
+    Info_5:
+      Name: scene_login
+      Dependencies: {}
+    Info_6:
+      Name: scene_empty
+      Dependencies: {}
+    Info_7:
+      Name: ui_main
+      Dependencies: {}
+    Info_8:
+      Name: scene_dep_prefab_cube
+      Dependencies: {}
